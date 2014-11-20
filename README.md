@@ -29,5 +29,11 @@ The script  run_analysis.R, does the following operations
 4. Appropriately labels the data set with descriptive activity names. 
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
 
+###  Execution of the R Script to get and clean data
+
+   1. Download data : dowbnload the zip file from the given URL , extract it in your workspace. Your workspace should have the folder "UCI HAR Dataset" and all data files inside it. If you want to change the name of the folder then corresponding modification have to be done in the script.
+   
+   2. Download and execute script : copy run_analysis.R is your workspace and run the command -    source("./run_analysis.R") . It should create a file "tidy_data.txt" in your workspace.
+
 ### Additional Information
 Additional information about the variables, data and processes can be found in the CodeBook.MD file.
