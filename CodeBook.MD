@@ -1,6 +1,6 @@
 # CodeBook
 
-This is code book describes the variables, data, code and other things. 
+This code book describes the variables, data, code and other things of this project.
 
 ## Project Overview
 
